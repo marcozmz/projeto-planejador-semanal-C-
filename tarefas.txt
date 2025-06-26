@@ -1,4 +1,0 @@
-ler;ler livro;5.00;u;0
-jogar;jogar video game;10.00;i;1
-estudar;estudar c;15.00;a;2
-llllllll;mmmmmmmm;2.00;u;0
